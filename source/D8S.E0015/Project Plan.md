@@ -1,2 +1,2 @@
 # D8S.E0015
-Razor page markup generation using System.Xml.Linq.XElements.
+Experiments with Razor page markup generation using System.Xml.Linq.XElements.

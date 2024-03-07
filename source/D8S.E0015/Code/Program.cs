@@ -5,9 +5,9 @@ namespace D8S.E0015
 {
     class Program
     {
-        static void Main()
+        static async void Main()
         {
-            Console.WriteLine("Hello World!");
+            await Explorations.Instance.Try_Generator_Host_cshtml();
         }
     }
 }
